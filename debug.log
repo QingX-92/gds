@@ -1,0 +1,4 @@
+[0313/180051:ERROR:gpu_info_collector_win.cc(103)] Can't retrieve a valid WinSAT assessment.
+[0313/180051:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
+[0313/190054:ERROR:gpu_info_collector_win.cc(103)] Can't retrieve a valid WinSAT assessment.
+[0313/190054:ERROR:proxy_service_factory.cc(105)] Cannot use V8 Proxy resolver in single process mode.
